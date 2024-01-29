@@ -4,10 +4,11 @@ This is a list of various open and closed ai-models, categorized by tasks. The g
 
 ## Text OCR
 
-For english:
+For English:
 
 1. GPT with vision (closed)
 2. Google vision api (closed)
 3. LLaVA (open)
 
-
+Other languages:
+1. [Tesseract](https://github.com/tesseract-ocr/tesseract) (open)
